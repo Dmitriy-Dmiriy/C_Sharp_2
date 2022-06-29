@@ -1,0 +1,45 @@
+D:\Учёба\GeeBrains\Курс по QA engineer\Курс_C#\Занятие_2\2.Семинар\ДЗ_2_C#\task_10\bin\Debug\net6.0\task_10.exe
+D:\Учёба\GeeBrains\Курс по QA engineer\Курс_C#\Занятие_2\2.Семинар\ДЗ_2_C#\task_10\bin\Debug\net6.0\task_10.deps.json
+D:\Учёба\GeeBrains\Курс по QA engineer\Курс_C#\Занятие_2\2.Семинар\ДЗ_2_C#\task_10\bin\Debug\net6.0\task_10.runtimeconfig.json
+D:\Учёба\GeeBrains\Курс по QA engineer\Курс_C#\Занятие_2\2.Семинар\ДЗ_2_C#\task_10\bin\Debug\net6.0\task_10.dll
+D:\Учёба\GeeBrains\Курс по QA engineer\Курс_C#\Занятие_2\2.Семинар\ДЗ_2_C#\task_10\bin\Debug\net6.0\task_10.pdb
+D:\Учёба\GeeBrains\Курс по QA engineer\Курс_C#\Занятие_2\2.Семинар\ДЗ_2_C#\task_10\obj\Debug\net6.0\task_10.csproj.AssemblyReference.cache
+D:\Учёба\GeeBrains\Курс по QA engineer\Курс_C#\Занятие_2\2.Семинар\ДЗ_2_C#\task_10\obj\Debug\net6.0\task_10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\GeeBrains\Курс по QA engineer\Курс_C#\Занятие_2\2.Семинар\ДЗ_2_C#\task_10\obj\Debug\net6.0\task_10.AssemblyInfoInputs.cache
+D:\Учёба\GeeBrains\Курс по QA engineer\Курс_C#\Занятие_2\2.Семинар\ДЗ_2_C#\task_10\obj\Debug\net6.0\task_10.AssemblyInfo.cs
+D:\Учёба\GeeBrains\Курс по QA engineer\Курс_C#\Занятие_2\2.Семинар\ДЗ_2_C#\task_10\obj\Debug\net6.0\task_10.csproj.CoreCompileInputs.cache
+D:\Учёба\GeeBrains\Курс по QA engineer\Курс_C#\Занятие_2\2.Семинар\ДЗ_2_C#\task_10\obj\Debug\net6.0\task_10.dll
+D:\Учёба\GeeBrains\Курс по QA engineer\Курс_C#\Занятие_2\2.Семинар\ДЗ_2_C#\task_10\obj\Debug\net6.0\refint\task_10.dll
+D:\Учёба\GeeBrains\Курс по QA engineer\Курс_C#\Занятие_2\2.Семинар\ДЗ_2_C#\task_10\obj\Debug\net6.0\task_10.pdb
+D:\Учёба\GeeBrains\Курс по QA engineer\Курс_C#\Занятие_2\2.Семинар\ДЗ_2_C#\task_10\obj\Debug\net6.0\task_10.genruntimeconfig.cache
+D:\Учёба\GeeBrains\Курс по QA engineer\Курс_C#\Занятие_2\2.Семинар\ДЗ_2_C#\task_10\obj\Debug\net6.0\ref\task_10.dll
+C:\Users\yaato\OneDrive\Рабочий стол\2.Семинар\ДЗ_2_C#\task_10\bin\Debug\net6.0\task_10.exe
+C:\Users\yaato\OneDrive\Рабочий стол\2.Семинар\ДЗ_2_C#\task_10\bin\Debug\net6.0\task_10.deps.json
+C:\Users\yaato\OneDrive\Рабочий стол\2.Семинар\ДЗ_2_C#\task_10\bin\Debug\net6.0\task_10.runtimeconfig.json
+C:\Users\yaato\OneDrive\Рабочий стол\2.Семинар\ДЗ_2_C#\task_10\bin\Debug\net6.0\task_10.dll
+C:\Users\yaato\OneDrive\Рабочий стол\2.Семинар\ДЗ_2_C#\task_10\bin\Debug\net6.0\task_10.pdb
+C:\Users\yaato\OneDrive\Рабочий стол\2.Семинар\ДЗ_2_C#\task_10\obj\Debug\net6.0\task_10.csproj.AssemblyReference.cache
+C:\Users\yaato\OneDrive\Рабочий стол\2.Семинар\ДЗ_2_C#\task_10\obj\Debug\net6.0\task_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaato\OneDrive\Рабочий стол\2.Семинар\ДЗ_2_C#\task_10\obj\Debug\net6.0\task_10.AssemblyInfoInputs.cache
+C:\Users\yaato\OneDrive\Рабочий стол\2.Семинар\ДЗ_2_C#\task_10\obj\Debug\net6.0\task_10.AssemblyInfo.cs
+C:\Users\yaato\OneDrive\Рабочий стол\2.Семинар\ДЗ_2_C#\task_10\obj\Debug\net6.0\task_10.csproj.CoreCompileInputs.cache
+C:\Users\yaato\OneDrive\Рабочий стол\2.Семинар\ДЗ_2_C#\task_10\obj\Debug\net6.0\task_10.dll
+C:\Users\yaato\OneDrive\Рабочий стол\2.Семинар\ДЗ_2_C#\task_10\obj\Debug\net6.0\refint\task_10.dll
+C:\Users\yaato\OneDrive\Рабочий стол\2.Семинар\ДЗ_2_C#\task_10\obj\Debug\net6.0\task_10.pdb
+C:\Users\yaato\OneDrive\Рабочий стол\2.Семинар\ДЗ_2_C#\task_10\obj\Debug\net6.0\task_10.genruntimeconfig.cache
+C:\Users\yaato\OneDrive\Рабочий стол\2.Семинар\ДЗ_2_C#\task_10\obj\Debug\net6.0\ref\task_10.dll
+C:\Users\Dmitriy\Desktop\ДЗ_2_C#\task_10\bin\Debug\net6.0\task_10.exe
+C:\Users\Dmitriy\Desktop\ДЗ_2_C#\task_10\bin\Debug\net6.0\task_10.deps.json
+C:\Users\Dmitriy\Desktop\ДЗ_2_C#\task_10\bin\Debug\net6.0\task_10.runtimeconfig.json
+C:\Users\Dmitriy\Desktop\ДЗ_2_C#\task_10\bin\Debug\net6.0\task_10.dll
+C:\Users\Dmitriy\Desktop\ДЗ_2_C#\task_10\bin\Debug\net6.0\task_10.pdb
+C:\Users\Dmitriy\Desktop\ДЗ_2_C#\task_10\obj\Debug\net6.0\task_10.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\Desktop\ДЗ_2_C#\task_10\obj\Debug\net6.0\task_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitriy\Desktop\ДЗ_2_C#\task_10\obj\Debug\net6.0\task_10.AssemblyInfoInputs.cache
+C:\Users\Dmitriy\Desktop\ДЗ_2_C#\task_10\obj\Debug\net6.0\task_10.AssemblyInfo.cs
+C:\Users\Dmitriy\Desktop\ДЗ_2_C#\task_10\obj\Debug\net6.0\task_10.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\Desktop\ДЗ_2_C#\task_10\obj\Debug\net6.0\task_10.dll
+C:\Users\Dmitriy\Desktop\ДЗ_2_C#\task_10\obj\Debug\net6.0\refint\task_10.dll
+C:\Users\Dmitriy\Desktop\ДЗ_2_C#\task_10\obj\Debug\net6.0\task_10.pdb
+C:\Users\Dmitriy\Desktop\ДЗ_2_C#\task_10\obj\Debug\net6.0\task_10.genruntimeconfig.cache
+C:\Users\Dmitriy\Desktop\ДЗ_2_C#\task_10\obj\Debug\net6.0\ref\task_10.dll
